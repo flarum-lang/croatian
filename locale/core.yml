@@ -95,7 +95,6 @@ core:
       title: '=> core.ref.email'
     extension:
       configure_scopes: 'Prilagodi djelokrug'
-      confirm_uninstall: 'Deinstalacija će ukloniti sve unose u bazi podataka te sve datoteke vezane uz proširenje. Jeste li sigurni da želite nastaviti?'
       disabled: Onemogućeno
       enable_to_see: 'Omogućite proširenje kako bi mogli pregledavati i izmjenjivati postavke.'
       enabled: Omogućeno
@@ -110,7 +109,6 @@ core:
       no_settings: 'Ovo proširenje nema postavki.'
       open_modal: 'Otvori postavke'
       permissions_title: Dozvole
-      uninstall_button: Deinstaliraj
     header:
       get_help: Pomoć
       log_out_button: '=> core.ref.log_out'
@@ -278,7 +276,6 @@ core:
     discussion_list:
       empty_text: 'Ovdje nema rasprava, izgleda.'
       load_more_button: '=> core.ref.load_more'
-      mark_as_read_tooltip: 'Označi kao pročitano'
       replied_text: '{username} odgovara {ago}'
       started_text: '{username} započinje {ago}'
     forgot_password:

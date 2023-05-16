@@ -46,10 +46,7 @@ flarum-tags:
       meta_description_text: 'Sve oznake'
       meta_title_text: '=> flarum-tags.ref.tags'
     choose_tags:
-      choose_primary_placeholder: '{count, plural, one {Odaberite glavnu oznaku} other {Odaberite # glavnih oznaka}}'
-      choose_secondary_placeholder: '{count, plural, one {Odaberite još 1 oznaku} other {Odaberite još # oznaka}}'
       edit_title: 'Uređivanje oznaka rasprave {title}'
-      submit_button: '=> core.ref.okay'
       title: 'Odaberite oznake za vašu raspravu'
     composer_discussion:
       choose_tags_link: 'Odaberi oznake'
