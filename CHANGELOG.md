@@ -29,5 +29,6 @@ CHANGELOG
 * [`flarum/subscriptions`](https://github.com/flarum/subscriptions)
 * [`flarum/suspend`](https://github.com/flarum/suspend)
 * [`flarum/tags`](https://github.com/flarum/tags)
+* [`v17development/flarum-user-badges`](https://github.com/v17development/flarum-user-badges)
 
 
