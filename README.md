@@ -89,6 +89,7 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
+| [`v17development/flarum-user-badges`](https://github.com/v17development/flarum-user-badges) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hr/v17development-user-badges/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/v17development-user-badges/hr/) |
 
 <!-- various-extensions-list-stop -->
 
