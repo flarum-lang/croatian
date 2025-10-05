@@ -4,19 +4,79 @@
 
 huseyinfiliz-traderfeedback:
   admin:
+    approvals:
+      approve_button: Odobri
+      approved_error: 'Odobravanje ocjene nije uspjelo'
+      approved_success: 'Ocjena uspješno odobrena'
+      confirm_approve: 'Jeste li sigurni da želite odobriti ovu ocjenu?'
+      confirm_reject: 'Jeste li sigurni da želite odbiti ovu ocjenu?'
+      no_approvals: 'Nema na čekanju za odobrenje'
+      reject_button: Odbaci
+      rejected_error: 'Odbijanje ocjene nije uspjelo'
+      rejected_success: 'Ocjena uspješno odbijena'
+      title: 'Na čekanju za odobrenje'
+      unknown_user: Nepoznato
+      user_id_format: 'Korisnik #{id}'
+      view_discussion: 'Pogledaj temu'
+    dashboard:
+      negative_feedbacks: 'Negativne ocjene'
+      neutral_feedbacks: 'Neutralne ocjene'
+      pending_approvals: 'Na čekanju za odobrenje'
+      positive_feedbacks: 'Pozitivne ocjene'
+      reported_feedbacks: 'Prijavljene ocjene'
+      title: 'Statistika ocjena korisnika'
+      total_feedbacks: 'Ukupan broj ocjena'
     permissions:
       delete_feedback: 'Obriši ocjenu'
       give_feedback: 'Ocijeni kupoprodaju'
       moderate_feedback: 'Moderiranje ocjena korisnika'
       report_feedback: 'Prijavi ocjenu'
+    reports:
+      approve_button: Odobri
+      confirm_approve: 'Jeste li sigurni da želite odobriti ovu ocjenu?'
+      confirm_delete: 'Jeste li sigurni da želite obrisati ovu ocjenu? Ova radnja se ne može poništiti.'
+      confirm_dismiss: 'Jeste li sigurni da želite odbaciti ovu prijavu?'
+      confirm_reject: 'Jeste li sigurni da želite odbiti ovu ocjenu?'
+      delete_button: 'Obriši ocjenu'
+      deleted_error: 'Brisanje ocjene nije uspjelo'
+      deleted_success: 'Ocjena uspješno obrisana'
+      dismiss_button: 'Odbaci prijavu'
+      dismissed_error: 'Odbacivanje prijave nije uspjelo'
+      dismissed_success: 'Prijava uspješno odbačena'
+      load_error: 'Učitavanje prijava nije uspjelo'
+      no_reports: 'Nema prijavljenih ocjena'
+      reason_label: 'Razlog:'
+      reject_button: Odbij
+      reported_feedback_label: 'Prijavljena ocjena'
+      title: 'Prijavljene ocjene'
+      unknown_user: Nepoznato
+      user_id_format: 'Korisnik #{id}'
+      user_reported: 'Prijavio korisnik {username}'
+    roles:
+      buyer: Kupac
+      seller: Prodavač
+      trader: Trgovac
     settings:
       allow_negative_label: 'Dopusti negativne ocjene'
       help_text: 'Konfiguriraj sustav ocjena korisnika'
+      max_length_label: 'Maksimalna duljina komentara'
+      min_days_help: 'Korisnici moraju biti članovi ovoliki broj dana prije ostavljanja ocjene (0 = isključeno)'
+      min_days_label: 'Minimalan broj dana članstva'
+      min_length_label: 'Minimalna duljina komentara'
+      min_posts_help: 'Korisnici moraju imati ovoliki broj poruka prije ostavljanja ocjene (0 = isključeno)'
+      min_posts_label: 'Minimalan broj poruka'
+      one_per_discussion_help: 'Ograniči korisnike na jednu ocjenu po temi između istih korisnika'
+      one_per_discussion_label: 'Jedna ocjena po temi'
       require_approval_label: 'Zahtijevaj odobrenje za ocjene'
+      require_discussion_help: 'Korisnici moraju priložiti poveznicu teme pri ostavljanju ocjene'
+      require_discussion_label: 'Zahtijevaj URL/ID teme'
       section_comment: 'Postavke opisa'
       section_discussion: 'Postavke teme'
       section_general: 'Opće postavke'
       section_requirements: 'Korisnički zahtjevi'
+      show_badge_in_posts_help: 'Prikaži ocjenu kupoprodaje korisnika pored korisničkog imena u porukama na forumu'
+      show_badge_in_posts_label: 'Prikaži oznaku kupoprodaje u porukama'
+      submit_button: 'Spremi postavke'
       title: 'Postavke ocjena korisnika'
     tabs:
       approvals: 'Na čekanju za odobrenje'
