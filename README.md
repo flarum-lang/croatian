@@ -90,6 +90,7 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
+| [`clarkwinkelmann/flarum-ext-post-bookmarks`](https://github.com/clarkwinkelmann/flarum-ext-post-bookmarks) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hr/clarkwinkelmann-post-bookmarks/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/clarkwinkelmann-post-bookmarks/hr/) |
 | [`gtdxyz/flarum-ext-badges`](https://github.com/daocatt/flarum-ext-badges) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hr/gtdxyz-badges/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/gtdxyz-badges/hr/) |
 | [`huseyinfiliz/custom-profile-page`](https://github.com/huseyinfiliz/custom-profile-page) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hr/huseyinfiliz-custom-profile-page/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/huseyinfiliz-custom-profile-page/hr/) |
 | [`huseyinfiliz/sticky-title`](https://github.com/huseyinfiliz/sticky-title) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hr/huseyinfiliz-sticky-title/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/huseyinfiliz-sticky-title/hr/) |
