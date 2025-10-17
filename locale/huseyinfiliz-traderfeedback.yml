@@ -58,6 +58,38 @@ huseyinfiliz-traderfeedback:
       trader: Trgovac
     settings:
       allow_negative_label: 'Dopusti negativne ocjene'
+      badge_custom_format_help: 'Dostupne varijable: total, score, positive, neutral, negative (omotaj u vitičaste zagrade)'
+      badge_custom_format_invalid: 'Pronađene nevažeće varijable: {vars}'
+      badge_custom_format_invalid_preview: 'Nevažeći format'
+      badge_custom_format_label: 'Predložak prilagođenog formata'
+      badge_custom_prefix_help: 'Izborni tekst za prikaz ispred značke (ostavi prazno za bez prefiksa)'
+      badge_custom_prefix_label: 'Prilagođeni tekst prefiksa'
+      badge_custom_prefix_placeholder: 'npr. Ocjena Trgovca:, Ocjena:, Povratna Informacija:'
+      badge_format_count_percentage: 'Broj s Postotkom'
+      badge_format_custom: 'Prilagođeni Format'
+      badge_format_help: 'Odaberi kako bi se značka trgovca trebala prikazati'
+      badge_format_label: 'Format Značke'
+      badge_format_letters: 'Format Slova'
+      badge_format_percentage: 'Samo Postotak'
+      badge_format_symbols: 'Format Simbola'
+      badge_only_first_post_help: 'Kada je omogućeno, značka će se prikazati samo u prvoj objavi rasprave'
+      badge_only_first_post_label: 'Prikaži značku samo u prvoj objavi'
+      badge_preview_label: 'Pregled Uživo:'
+      badge_preview_sample: 'Uzorak podataka: 5 pozitivnih, 2 neutralnih, 1 negativnih (88% ocjena)'
+      badge_tag_filter_help: 'Ostavi prazno za prikaz značke u svim raspravama. Odaberi specifične oznake da bi ograničio prikaz značke.'
+      badge_tag_filter_label: 'Prikaži značku samo u ovim oznakama'
+      badge_tag_filter_tags_required: 'Za filtriranje po oznakama potrebno je proširenje Tags'
+      badge_var_negative: Negativno
+      badge_var_neutral: Neutralno
+      badge_var_positive: Pozitivno
+      badge_var_score: Ocjena
+      badge_var_total: Ukupno
+      feedback_action_tag_filter_help: 'Ostavi prazno za prikaz u svim raspravama. Odaberi specifične oznake da bi se vidljivost gumba ograničila samo na te oznake.'
+      feedback_action_tag_filter_label: 'Prikaži gumbe za povratnu informaciju samo u ovim oznakama'
+      feedback_only_when_locked_help: 'Kada je omogućeno, gumbi za povratnu informaciju prikazat će se samo u zaključanim raspravama (zahtijeva proširenje flarum-lock)'
+      feedback_only_when_locked_label: 'Prikaži samo u zaključanim raspravama'
+      footer_only_first_post_help: 'Kada je omogućeno, gumb za povratnu informaciju u podnožju objave prikazat će se samo u prvoj objavi rasprave'
+      footer_only_first_post_label: 'Prikaži gumb u podnožju samo u prvoj objavi'
       help_text: 'Konfiguriraj sustav ocjena korisnika'
       max_length_label: 'Maksimalna duljina komentara'
       min_days_help: 'Korisnici moraju biti članovi ovoliki broj dana prije ostavljanja ocjene (0 = isključeno)'
@@ -70,12 +102,20 @@ huseyinfiliz-traderfeedback:
       require_approval_label: 'Zahtijevaj odobrenje za ocjene'
       require_discussion_help: 'Korisnici moraju priložiti poveznicu teme pri ostavljanju ocjene'
       require_discussion_label: 'Zahtijevaj URL/ID teme'
+      section_badge_display: 'Postavke Prikaza Značke'
       section_comment: 'Postavke opisa'
       section_discussion: 'Postavke teme'
       section_general: 'Opće postavke'
+      section_post_feedback_actions: 'Radnje nakon Povratne Informacije'
       section_requirements: 'Korisnički zahtjevi'
       show_badge_in_posts_help: 'Prikaži ocjenu kupoprodaje korisnika pored korisničkog imena u porukama na forumu'
       show_badge_in_posts_label: 'Prikaži oznaku kupoprodaje u porukama'
+      show_feedback_below_reply_help: 'Dodaje gumb za povratnu informaciju ispod gumba za odgovor i praćenje u bočnoj traci rasprave'
+      show_feedback_below_reply_label: 'Prikaži ''Pružanje Povratnih Informacija'' ispod gumba Odgovori/Prati'
+      show_feedback_in_post_footer_help: 'Dodaje gumb za povratnu informaciju u donji lijevi kut svake objave (neće se prikazati na vlastitim objavama)'
+      show_feedback_in_post_footer_label: 'Prikaži gumb ''Pružanje Povratnih Informacija'' u podnožju objave'
+      show_feedback_in_post_menu_help: 'Dodaje gumb ''Pružanje Povratnih Informacija'' u padajući izbornik objave (neće se prikazati na vlastitim objavama)'
+      show_feedback_in_post_menu_label: 'Prikaži gumb ''Pružanje Povratnih Informacija'' u izborniku objave'
       submit_button: 'Spremi postavke'
       title: 'Postavke ocjena korisnika'
     tabs:
@@ -95,6 +135,21 @@ huseyinfiliz-traderfeedback:
       rate_limit_report: 'Pričekajte {seconds} sekundi prije nego što ponovno ocijenite.'
       self_feedback: 'Ne možete ocijeniti samoga sebe.'
   forum:
+    badge:
+      format_count_percentage: '{total} ({score}%)'
+      format_letters: '{positive}P / {neutral}N / {negative}N'
+      format_percentage: '{score}%'
+      format_symbols: '+{positive} ={neutral} -{negative}'
+    discussion_actions:
+      continue: Nastavi
+      give_feedback: 'Pruži povratnu informaciju'
+      no_matching_users: 'Nije pronađen nijedan podudarni korisnik'
+      no_users_found: 'Nije pronađen nijedan drugi korisnik u ovoj raspravi'
+      search_user_placeholder: 'Pretraži korisnike...'
+      select_user_label: 'Odaberi Korisnika'
+      select_user_title: 'Odaberi korisnika za povratnu informaciju'
+      showing_limited_results: 'Prikazano je prvih {shown} od {total} podudarnih korisnika. Suzite pretragu.'
+      showing_limited_users: 'Prikazano je {shown} od {total} korisnika. Koristi pretragu za pronalaženje ostalih.'
     feedback_item:
       as_buyer: 'kao kupac'
       as_seller: 'kao prodavač'
@@ -161,6 +216,9 @@ huseyinfiliz-traderfeedback:
       feedback_approved_title: 'Vaša ocjena za korisnika {username} je odobrena'
       feedback_rejected_title: 'Vaša ocjena za korisnika {username} je odbijena'
       new_feedback_title: 'Korisnik {username} vam je ostavio {type} ocjenu'
+    post_actions:
+      give_feedback: 'Pošalji mišljenje'
+      give_feedback_short: 'Povratna informacije'
     report_modal:
       error: 'Slanje prijave ocjene nije uspjelo'
       reason_label: Razlog
