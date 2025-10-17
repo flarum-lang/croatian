@@ -90,11 +90,14 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
+| [`blomstra/fontawesome`](https://github.com/blomstra/flarum-ext-fontawesome) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hr/blomstra-fontawesome/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/blomstra-fontawesome/hr/) |
 | [`clarkwinkelmann/flarum-ext-post-bookmarks`](https://github.com/clarkwinkelmann/flarum-ext-post-bookmarks) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hr/clarkwinkelmann-post-bookmarks/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/clarkwinkelmann-post-bookmarks/hr/) |
+| [`datlechin/flarum-link-preview`](https://github.com/datlechin/flarum-link-preview) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hr/datlechin-link-preview/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/datlechin-link-preview/hr/) |
 | [`gtdxyz/flarum-ext-badges`](https://github.com/daocatt/flarum-ext-badges) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hr/gtdxyz-badges/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/gtdxyz-badges/hr/) |
 | [`huseyinfiliz/custom-profile-page`](https://github.com/huseyinfiliz/custom-profile-page) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hr/huseyinfiliz-custom-profile-page/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/huseyinfiliz-custom-profile-page/hr/) |
 | [`huseyinfiliz/sticky-title`](https://github.com/huseyinfiliz/sticky-title) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hr/huseyinfiliz-sticky-title/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/huseyinfiliz-sticky-title/hr/) |
 | [`huseyinfiliz/traderfeedback`](https://github.com/huseyinfiliz/traderfeedback) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hr/huseyinfiliz-traderfeedback/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/huseyinfiliz-traderfeedback/hr/) |
+| [`justoverclock/custom-html-widget`](https://github.com/justoverclockl/custom-html-widget) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hr/justoverclock-custom-html-widget/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/justoverclock-custom-html-widget/hr/) |
 | [`v17development/flarum-user-badges`](https://github.com/v17development/flarum-user-badges) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hr/v17development-user-badges/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/v17development-user-badges/hr/) |
 
 <!-- various-extensions-list-stop -->
