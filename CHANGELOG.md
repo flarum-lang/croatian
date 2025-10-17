@@ -14,7 +14,9 @@ CHANGELOG
 
 **Added support for new extensions**:
 
+* [`blomstra/fontawesome`](https://github.com/blomstra/flarum-ext-fontawesome)
 * [`clarkwinkelmann/flarum-ext-post-bookmarks`](https://github.com/clarkwinkelmann/flarum-ext-post-bookmarks)
+* [`datlechin/flarum-link-preview`](https://github.com/datlechin/flarum-link-preview)
 * [`flarum/akismet`](https://github.com/flarum/akismet)
 * [`flarum/approval`](https://github.com/flarum/approval)
 * [`flarum/emoji`](https://github.com/flarum/emoji)
@@ -35,6 +37,7 @@ CHANGELOG
 * [`huseyinfiliz/custom-profile-page`](https://github.com/huseyinfiliz/custom-profile-page)
 * [`huseyinfiliz/sticky-title`](https://github.com/huseyinfiliz/sticky-title)
 * [`huseyinfiliz/traderfeedback`](https://github.com/huseyinfiliz/traderfeedback)
+* [`justoverclock/custom-html-widget`](https://github.com/justoverclockl/custom-html-widget)
 * [`v17development/flarum-user-badges`](https://github.com/v17development/flarum-user-badges)
 
 
