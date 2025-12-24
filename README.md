@@ -91,6 +91,7 @@ php flarum cache:clear
 | Extension | Status |
 | --- | --- |
 | [`blomstra/fontawesome`](https://github.com/blomstra/flarum-ext-fontawesome) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hr/blomstra-fontawesome/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/blomstra-fontawesome/hr/) |
+| [`clarkwinkelmann/flarum-ext-first-post-approval`](https://github.com/clarkwinkelmann/flarum-ext-first-post-approval) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hr/clarkwinkelmann-first-post-approval/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/clarkwinkelmann-first-post-approval/hr/) |
 | [`clarkwinkelmann/flarum-ext-post-bookmarks`](https://github.com/clarkwinkelmann/flarum-ext-post-bookmarks) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hr/clarkwinkelmann-post-bookmarks/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/clarkwinkelmann-post-bookmarks/hr/) |
 | [`datlechin/flarum-link-preview`](https://github.com/datlechin/flarum-link-preview) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hr/datlechin-link-preview/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/datlechin-link-preview/hr/) |
 | [`gtdxyz/flarum-ext-badges`](https://github.com/daocatt/flarum-ext-badges) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hr/gtdxyz-badges/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/gtdxyz-badges/hr/) |
