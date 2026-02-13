@@ -4,17 +4,53 @@
 
 fof-badges:
   admin:
+    actions: 'Radnje na stečenim bedžovima'
     active: Aktivno
+    add_to_group: 'Dodaj korisnika u grupu'
+    add_to_group_help: 'Automatski dodaj korisnika u ovu grupu nakon što stekne bedž.'
+    appearance: Izgled
     assign: Dodijeli
+    assign_badge: 'Dodijeli: {badge}'
+    assign_reason: 'Razlog (neobavezno)'
+    assign_reason_help: 'Ovaj će razlog biti vidljiv na korisnikovu bedžu.'
+    assign_reason_placeholder: 'Zašto se dodjeljuje ovaj bedž?'
     automatic: Automatski
+    background_color: 'Boja pozadine'
+    badge_assigned: 'Bedž "{badge}" dodijeljen je korisniku {username}!'
+    badge_category: Kategorija
     badge_count: '{count, plural, one {# bedž} other {# bedževa}}'
+    badge_description: Opis
+    badge_description_placeholder: 'Opišite kako zaslužiti ovaj bedž...'
+    badge_name: Ime
+    badge_name_placeholder: 'npr. „Majstor za 100 objava”'
+    badge_revoked: 'Bedž „{badge}” opozvan je korisniku {username}.'
+    badge_slug: Putanja
+    badge_slug_help: 'URL-u prilagođen identifikator. Automatski se generira iz imena ako ostane prazno.'
+    badge_slug_placeholder: 'npr. „majstor-za-100-objava”'
+    cancel: Odustani
+    category_description: Opis
+    category_description_placeholder: 'Opiši ovu kategoriju bedževa...'
+    category_enabled: Omogućeno
+    category_enabled_help: 'Onemogućene kategorije i njihovi bedževi neće se pojavljivati na popisu bedževa.'
+    category_name: Ime
+    category_name_placeholder: 'npr. „Bedževi za postignuća”'
+    category_slug: 'Putanja (slug)'
+    category_slug_help: 'URL-u prilagođen identifikator kategorije.'
+    category_slug_placeholder: 'npr. „postignuća”'
+    clear_selection: 'Očisti odabir'
     create_badge: 'Izrada bedža'
     create_category: 'Izrada kategorije'
     delete: Izbriši
+    delete_badge_confirm: 'Jeste li sigurni da želite obrisati bedž "{name}"? To će ga također ukloniti svim korisnicima koji su ga zaslužili.'
+    delete_category_confirm: 'Jeste li sigurni da želite obrisati kategoriju "{name}"?'
+    delete_category_confirm_with_badges: 'Jeste li sigurni da želite obrisati kategoriju "{name}"? {count, plural, one {# bedž} other {# bedževa}} ostat će bez kategorije.'
     disabled: Onemogućeno
     earned_count: 'Osvojeno: {count}'
     edit: Uredi
+    edit_badge: 'Uredi bedž'
+    edit_category: 'Uredi kategoriju'
     enabled: Omogućeno
+    granted_by_system: Sustav
     headers:
       badges: Bedževi
       description: Opis
@@ -25,20 +61,59 @@ fof-badges:
       rarity: Rijetkost
       status: Status
       type: Vrsta
+    icon_color: 'Boja ikone'
+    icon_picker:
+      collapse: 'Sakrij birač ikona'
+      expand: 'Prikaži birač ikona'
+      hint: 'Kliknite na ikonu za odabir ili upišite naziv Font Awesome klase iznad.'
     inactive: Neaktivno
     install_defaults: 'Instaliraj zadane bedževe'
     install_defaults_error: 'Neuspjela instalacija zadanih bedževa.'
     install_defaults_success: 'Zadani bedževi uspješno su instalirani!'
+    is_active: Aktivan
+    is_active_help: 'Neaktivni bedževi neće se automatski dodjeljivati korisnicima.'
+    is_visible: 'Vidljivo na popisu bedževa'
+    is_visible_help: 'Skriveni bedževi neće se prikazivati na javnom popisu bedževa, ali ih korisnici i dalje mogu zaslužiti.'
     manual: Ručno
+    metrics:
+      best_answers_received: 'Primljeni najbolji odgovori'
+      discussion_count: 'Pokrenute rasprave'
+      downvotes_given: 'Dani downvoteovi'
+      downvotes_received: 'Primljeni downvoteovi'
+      edit_count: 'Uređene objave'
+      files_uploaded: 'Učitane datoteke'
+      has_avatar: 'Ima avatar'
+      has_bio: 'Ima biografiju'
+      has_nickname: 'Ima nadimak'
+      likes_given: 'Dani lajkovi'
+      likes_received: 'Primljeni lajkovi'
+      member_days: 'Dani članstva'
+      polls_created: 'Ankete kreirane'
+      polls_voted: 'Glasane ankete'
+      post_count: 'Broj objava'
+      private_discussions_created: 'Privatne rasprave kreirane'
+      reactions_given: 'Dane reakcije'
+      reactions_received: 'Primljene reakcije'
+      tag_posts: 'Objave u oznaci'
+      upvotes_given: 'Dani upvoteovi'
+      upvotes_received: 'Primljeni upvoteovi'
     move_down: 'Pomakni dolje'
     move_up: 'Pomakni gore'
+    next: Sljedeće
     no_badges: 'Još nema bedževa. Kreiraj svoj prvi bedž!'
     no_categories: 'Još nema kategorija. Kreiraj svoju prvu kategoriju!'
+    no_category: 'Bez kategorije'
+    no_group: 'Nemoj dodavati u grupu'
+    no_holders: 'Nitko još nije zaslužio ovaj bedž.'
+    no_holders_found: 'Nije pronađen nijedan nositelj koji odgovara vašoj pretrazi.'
+    no_users_found: 'Nije pronađen nijedan korisnik'
     permissions:
       give_manually: 'Ručna dodjela bedževa'
       moderate: 'Upravljanje bedževima'
       view_list: 'Pregled popisa bedževa'
       view_user_badges: 'Pregled korisničkih bedževa'
+    preview: Pregled
+    previous: Prethodno
     rarity: '{percent}% rijetkost'
     recalculate: 'Ponovno izračunaj'
     recalculate_confirm: 'Ovim će se ponovno izračunati svi automatski bedževi za sve korisnike. Proces će se izvoditi u pozadini. Nastaviti?'
@@ -107,6 +182,14 @@ fof-badges:
       stuck: Zastoj
       title: 'Poslovi ponovnog izračuna'
       users: '{processed} / {total} evaluacija'
+    revoke: Opozovi
+    revoke_confirm: 'Jeste li sigurni da želite opozvati bedž „{badge}” korisniku {username}?'
+    revoke_error: 'Nije uspjelo opozivanje bedža.'
+    save: Spremi
+    search_holders_placeholder: 'Pretraži nositelje...'
+    search_user_placeholder: 'Pretraži po korisničkom ili prikazanom imenu...'
+    select_user: 'Odaberi korisnika'
+    send_notification: 'Pošalji obavijest korisniku'
     settings:
       display_title: 'Postavke prikaza'
       integrations_help: 'Metrika bedževa koja ovisi o drugim proširenjima. Instalirajte proširenje kako biste otključali odgovarajuće metrike.'
@@ -125,9 +208,106 @@ fof-badges:
       saved: 'Postavke su uspješno spremljene.'
       show_badges_on_user_card: 'Prikaži bedževe na korisničkoj kartici'
       show_badges_on_user_card_help: 'Prikaži korisnikov omiljeni ili najrjeđi bedž na korisničkim karticama i stranicama profila.'
+    showing_holders: 'Prikazano {from} – {to} od ukupno {total}'
+    status: Status
+    tab_assign: Dodijeli
+    tab_holders: 'Nositelji ({count})'
     tabs:
       badges: Bedževi
       categories: Kategorije
       recalculation: 'Ponovno izračunavanje'
       settings: Postavke
+    trigger_builder:
+      add_condition: 'Dodaj uvjet'
+      and: 'SVI moraju odgovarati (AND)'
+      and_help: 'Korisnik mora istovremeno ispuniti sve uvjete kako bi osvojio ovaj bedž.'
+      date_end: 'Završni datum'
+      date_range_help: 'Broji samo aktivnost unutar ovog raspona datuma. Korisno za prigodne bedževe.'
+      date_start: 'Početni datum'
+      loading_tags: 'Učitavanje oznaka...'
+      logic: 'Kada je postavljeno više uvjeta'
+      no_conditions_info: 'Nisu postavljeni uvjeti. Ovaj bedž mogu dodijeliti samo moderatori ručno.'
+      or: 'BILO KOJI mora odgovarati (ILI)'
+      or_help: 'Korisnik mora ispuniti barem jedan uvjet kako bi osvojio ovaj bedž.'
+      remove_condition: 'Ukloni uvjet'
+      select_tag: 'Odaberi oznaku...'
+      tag_filter: 'Filter oznaka'
+      tag_filter_help: 'Obavezno prilikom korištenja metrike "Objave u oznaci".'
+      use_date_range: 'Ograniči na raspon datuma'
+    trigger_config: 'Automatski okidač'
+    trigger_config_help: 'Konfigurirajte uvjete za automatsku dodjelu bedža. Ostavite prazno za bedževe koji se dodjeljuju isključivo ručno.'
     uncategorized: Nekategorizirano
+    validation:
+      tag_required: 'Morate odabrati oznaku kada koristite metriku „Objave u oznaci”.'
+  forum:
+    all_badges: 'Svi bedževi'
+    badges_subtitle: 'Zaslužite bedževe sudjelovanjem u zajednici!'
+    badges_title: Bedževi
+    earned_by: '{count, plural, one {# korisnik} other {# korisnika}}'
+    earned_users: Zaslužio
+    loading: Učitavanje...
+    more_users_earned: 'I još korisnika...'
+    my_badges: 'Moji bedževi'
+    nav:
+      badges: Bedževi
+    new_tag: NOVO
+    no_badges: 'Još nema dostupnih bedževa.'
+    no_users_earned: 'Nitko još nije zaslužio ovaj bedž. Budite prvi!'
+    notification:
+      a_badge: bedž
+      badge_earned: 'Osvojili ste bedž {badge}'
+    other_badges: 'Ostali bedževi'
+    owned_badge: 'Posjedujete ovaj bedž'
+    toggle_category_dropdown: 'Uključi/isključi padajući izbornik kategorija'
+    user:
+      assign_badge: 'Dodijeli bedž'
+      assign_badge_title: 'Dodijeli bedž korisniku {username}'
+      assign_button: 'Dodijeli bedž'
+      assign_reason: 'Razlog (opcionalno)'
+      assign_reason_help: 'Ovaj će razlog biti vidljiv na korisnikovu bedžu.'
+      assign_reason_placeholder: 'Zašto se ovaj bedž dodjeljuje?'
+      badge_actions: 'Radnje s bedževima'
+      badge_assigned: 'Bedž "{badge}" dodijeljen je korisniku {username}!'
+      badge_revoked: 'Bedž "{badge}" je opozvan.'
+      badges_count: '{count, plural, one {# bedž} other {# bedževa}}'
+      badges_tab: Bedževi
+      badges_title: 'Bedževi korisnika {username}'
+      cancel: Odustani
+      earned_on: 'Zasluženo {date}'
+      favorite_badge: 'Omiljeni bedž'
+      hidden_badge: 'Skriveno s profila'
+      hide_badge: 'Sakrij s profila'
+      load_more: 'Učitaj više'
+      manually_awarded: 'Ručno dodijeljeno'
+      no_badges: 'Ovaj korisnik još nije zaslužio nijedan bedž.'
+      no_badges_available: 'Nema dostupnih bedževa.'
+      recalculate: 'Ponovno izračunaj bedževe'
+      recalculate_error: 'Neuspjelo ponovno izračunavanje bedževa. Molimo pokušajte ponovno.'
+      recalculate_modal:
+        all_badges: 'Svi automatski bedževi'
+        badge_label: 'Bedž za ponovni izračun'
+        manual: Ručno
+        no_revoke_help: 'Ako je omogućeno, korisnik će zadržati bedževe čak i ako više ne ispunjava kriterije.'
+        no_revoke_label: 'Nemoj opozvati postojeće bedževe'
+        reapply_actions_help: 'Ponovno primijeni radnje za bedževe (poput dodavanja u grupu) ako korisnik već ima taj bedž.'
+        reapply_actions_label: 'Ponovno primijeni radnje na postojeće bedževe'
+        submit: 'Ponovno izračunaj'
+        title: 'Ponovno izračunaj bedževe'
+      recalculate_reapplied: 'Radnje ponovno primijenjene za {reapplied} bedževa'
+      recalculate_success: 'Bedževi su ponovno izračunati! Dodijeljeno: {awarded}, Oduzeto: {revoked}, Ponovno primijenjeno: {reapplied}'
+      remove_favorite: 'Ukloni iz omiljenih'
+      revoke_badge: 'Opozovi bedž'
+      revoke_confirm: 'Jeste li sigurni da želite opozvati bedž "{badge}" ovom korisniku?'
+      revoke_error: 'Neuspjelo opozivanje bedža.'
+      select_badge: 'Odaberite bedž...'
+      select_badge_label: 'Odaberi bedž'
+      set_favorite: 'Postavi kao omiljeno'
+      show_badge: 'Prikaži na profilu'
+      view_all_badges: 'Prikaži sve bedževe'
+  lib:
+    rarity_common: Uobičajen
+    rarity_epic: Epski
+    rarity_explain: '{percent}% korisnika ima ovaj bedž'
+    rarity_legendary: Legendaran
+    rarity_rare: Rijedak
+    rarity_uncommon: Neobičan
