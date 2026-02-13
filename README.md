@@ -80,6 +80,7 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
+| [`fof/badges`](https://github.com/FriendsOfFlarum/badges) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hr/fof-badges/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-badges/hr/) |
 
 <!-- fof-extensions-list-stop -->
 
