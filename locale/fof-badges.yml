@@ -4,13 +4,42 @@
 
 fof-badges:
   admin:
+    active: Aktivno
+    assign: Dodijeli
+    automatic: Automatski
+    badge_count: '{count, plural, one {# bedž} other {# bedževa}}'
     create_badge: 'Izrada bedža'
     create_category: 'Izrada kategorije'
+    delete: Izbriši
+    disabled: Onemogućeno
+    earned_count: 'Osvojeno: {count}'
+    edit: Uredi
+    enabled: Omogućeno
+    headers:
+      badges: Bedževi
+      description: Opis
+      earned: Osvojeno
+      icon: Ikona
+      name: Ime
+      order: Poredak
+      rarity: Rijetkost
+      status: Status
+      type: Vrsta
+    inactive: Neaktivno
+    install_defaults: 'Instaliraj zadane bedževe'
+    install_defaults_error: 'Neuspjela instalacija zadanih bedževa.'
+    install_defaults_success: 'Zadani bedževi uspješno su instalirani!'
+    manual: Ručno
+    move_down: 'Pomakni dolje'
+    move_up: 'Pomakni gore'
+    no_badges: 'Još nema bedževa. Kreiraj svoj prvi bedž!'
+    no_categories: 'Još nema kategorija. Kreiraj svoju prvu kategoriju!'
     permissions:
       give_manually: 'Ručna dodjela bedževa'
       moderate: 'Upravljanje bedževima'
       view_list: 'Pregled popisa bedževa'
       view_user_badges: 'Pregled korisničkih bedževa'
+    rarity: '{percent}% rijetkost'
     recalculate: 'Ponovno izračunaj'
     recalculate_confirm: 'Ovim će se ponovno izračunati svi automatski bedževi za sve korisnike. Proces će se izvoditi u pozadini. Nastaviti?'
     recalculate_error: 'Ponovni izračun bedževa nije uspio. Molimo pokušajte ponovno.'
@@ -66,8 +95,15 @@ fof-badges:
       empty: 'Nisu pronađeni poslovi ponovnog izračuna.'
       force_cancel: 'Prisilno otkaži'
       mark_failed: 'Označi kao neuspjelo'
+      mark_failed_error: 'Neuspjelo označavanje zadatka neuspješnim.'
       marked_failed: 'Posao označen kao neuspješan.'
       results: 'Dodijeljeno: {awarded} | Oduzeto: {revoked}'
+      status:
+        cancelled: Otkazano
+        completed: Izvršeno
+        failed: Neuspjelo
+        pending: 'U tijeku'
+        running: 'U tijeku'
       stuck: Zastoj
       title: 'Poslovi ponovnog izračuna'
       users: '{processed} / {total} evaluacija'
@@ -94,3 +130,4 @@ fof-badges:
       categories: Kategorije
       recalculation: 'Ponovno izračunavanje'
       settings: Postavke
+    uncategorized: Nekategorizirano
