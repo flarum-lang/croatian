@@ -4,55 +4,55 @@
 
 fof-badges:
   admin:
-    actions: 'Radnje na stečenim bedžovima'
+    actions: 'Radnje na stečenim značkama'
     active: Aktivno
     add_to_group: 'Dodaj korisnika u grupu'
-    add_to_group_help: 'Automatski dodaj korisnika u ovu grupu nakon što stekne bedž.'
+    add_to_group_help: 'Automatski dodaj korisnika u ovu grupu nakon što stekne značku.'
     appearance: Izgled
     assign: Dodijeli
     assign_badge: 'Dodijeli: {badge}'
     assign_reason: 'Razlog (neobavezno)'
-    assign_reason_help: 'Ovaj će razlog biti vidljiv na korisnikovu bedžu.'
-    assign_reason_placeholder: 'Zašto se dodjeljuje ovaj bedž?'
+    assign_reason_help: 'Ovaj će razlog biti vidljiv na korisnikovoj značci.'
+    assign_reason_placeholder: 'Zašto se dodjeljuje ova značka?'
     automatic: Automatski
     background_color: 'Boja pozadine'
-    badge_assigned: 'Bedž "{badge}" dodijeljen je korisniku {username}!'
+    badge_assigned: 'Značka "{badge}" dodijeljena je korisniku {username}!'
     badge_category: Kategorija
-    badge_count: '{count, plural, one {# bedž} other {# bedževa}}'
+    badge_count: '{count, plural, one {# značka} other {# znački}}'
     badge_description: Opis
-    badge_description_placeholder: 'Opišite kako zaslužiti ovaj bedž...'
+    badge_description_placeholder: 'Opišite kako zaslužiti ovu značku...'
     badge_name: Ime
     badge_name_placeholder: 'npr. „Majstor za 100 objava”'
-    badge_revoked: 'Bedž „{badge}” opozvan je korisniku {username}.'
+    badge_revoked: 'Značka „{badge}” opozvana je korisniku {username}.'
     badge_slug: Putanja
     badge_slug_help: 'URL-u prilagođen identifikator. Automatski se generira iz imena ako ostane prazno.'
     badge_slug_placeholder: 'npr. „majstor-za-100-objava”'
     cancel: Odustani
     category_description: Opis
-    category_description_placeholder: 'Opiši ovu kategoriju bedževa...'
+    category_description_placeholder: 'Opiši ovu kategoriju znački...'
     category_enabled: Omogućeno
-    category_enabled_help: 'Onemogućene kategorije i njihovi bedževi neće se pojavljivati na popisu bedževa.'
+    category_enabled_help: 'Onemogućene kategorije i njihove značke neće se pojavljivati na popisu znački.'
     category_name: Ime
-    category_name_placeholder: 'npr. „Bedževi za postignuća”'
+    category_name_placeholder: 'npr. „Značke za postignuća”'
     category_slug: 'Putanja (slug)'
     category_slug_help: 'URL-u prilagođen identifikator kategorije.'
     category_slug_placeholder: 'npr. „postignuća”'
     clear_selection: 'Očisti odabir'
-    create_badge: 'Izrada bedža'
+    create_badge: 'Izrada značke'
     create_category: 'Izrada kategorije'
     delete: Izbriši
-    delete_badge_confirm: 'Jeste li sigurni da želite obrisati bedž "{name}"? To će ga također ukloniti svim korisnicima koji su ga zaslužili.'
+    delete_badge_confirm: 'Jeste li sigurni da želite obrisati značku "{name}"? To će ga također ukloniti svim korisnicima koji su ga zaslužili.'
     delete_category_confirm: 'Jeste li sigurni da želite obrisati kategoriju "{name}"?'
-    delete_category_confirm_with_badges: 'Jeste li sigurni da želite obrisati kategoriju "{name}"? {count, plural, one {# bedž} other {# bedževa}} ostat će bez kategorije.'
+    delete_category_confirm_with_badges: 'Jeste li sigurni da želite obrisati kategoriju "{name}"? {count, plural, one {# značka} other {# znački}} ostat će bez kategorije.'
     disabled: Onemogućeno
     earned_count: 'Osvojeno: {count}'
     edit: Uredi
-    edit_badge: 'Uredi bedž'
+    edit_badge: 'Uredi značku'
     edit_category: 'Uredi kategoriju'
     enabled: Omogućeno
     granted_by_system: Sustav
     headers:
-      badges: Bedževi
+      badges: Značke
       description: Opis
       earned: Osvojeno
       icon: Ikona
@@ -67,13 +67,13 @@ fof-badges:
       expand: 'Prikaži birač ikona'
       hint: 'Kliknite na ikonu za odabir ili upišite naziv Font Awesome klase iznad.'
     inactive: Neaktivno
-    install_defaults: 'Instaliraj zadane bedževe'
-    install_defaults_error: 'Neuspjela instalacija zadanih bedževa.'
-    install_defaults_success: 'Zadani bedževi uspješno su instalirani!'
+    install_defaults: 'Instaliraj zadane značke'
+    install_defaults_error: 'Neuspjela instalacija zadanih znački.'
+    install_defaults_success: 'Zadane značke uspješno su instalirane!'
     is_active: Aktivan
-    is_active_help: 'Neaktivni bedževi neće se automatski dodjeljivati korisnicima.'
-    is_visible: 'Vidljivo na popisu bedževa'
-    is_visible_help: 'Skriveni bedževi neće se prikazivati na javnom popisu bedževa, ali ih korisnici i dalje mogu zaslužiti.'
+    is_active_help: 'Neaktivne značke neće se automatski dodjeljivati korisnicima.'
+    is_visible: 'Vidljivo na popisu znački'
+    is_visible_help: 'Skrivene značke neće se prikazivati na javnom popisu znački, ali ih korisnici i dalje mogu zaslužiti.'
     manual: Ručno
     metrics:
       best_answers_received: 'Primljeni najbolji odgovori'
@@ -100,30 +100,30 @@ fof-badges:
     move_down: 'Pomakni dolje'
     move_up: 'Pomakni gore'
     next: Sljedeće
-    no_badges: 'Još nema bedževa. Kreiraj svoj prvi bedž!'
+    no_badges: 'Još nema znački. Kreiraj svoj prvu značku!'
     no_categories: 'Još nema kategorija. Kreiraj svoju prvu kategoriju!'
     no_category: 'Bez kategorije'
     no_group: 'Nemoj dodavati u grupu'
-    no_holders: 'Nitko još nije zaslužio ovaj bedž.'
+    no_holders: 'Nitko još nije zaslužio ovu značku.'
     no_holders_found: 'Nije pronađen nijedan nositelj koji odgovara vašoj pretrazi.'
     no_users_found: 'Nije pronađen nijedan korisnik'
     permissions:
-      give_manually: 'Ručna dodjela bedževa'
-      moderate: 'Upravljanje bedževima'
-      view_list: 'Pregled popisa bedževa'
-      view_user_badges: 'Pregled korisničkih bedževa'
+      give_manually: 'Ručna dodjela znački'
+      moderate: 'Upravljanje značkama'
+      view_list: 'Pregled popisa znački'
+      view_user_badges: 'Pregled korisničkih znački'
     preview: Pregled
     previous: Prethodno
     rarity: '{percent}% rijetkost'
     recalculate: 'Ponovno izračunaj'
-    recalculate_confirm: 'Ovim će se ponovno izračunati svi automatski bedževi za sve korisnike. Proces će se izvoditi u pozadini. Nastaviti?'
-    recalculate_error: 'Ponovni izračun bedževa nije uspio. Molimo pokušajte ponovno.'
+    recalculate_confirm: 'Ovim će se ponovno izračunati sve automatske značke za sve korisnike. Proces će se izvoditi u pozadini. Nastaviti?'
+    recalculate_error: 'Ponovni izračun znački nije uspio. Molimo pokušajte ponovno.'
     recalculate_success: 'Ponovni izračun završen! Dodijeljeno: {awarded}, Oduzeto: {revoked}, Obrađeno korisnika: {users}'
     recalculate_tab:
-      all_badges: 'Svi automatski bedževi'
-      badge_help: 'Odaberite određeni bedž ili ponovno izračunajte sve automatske bedževe.'
-      badge_label: 'Bedž za ponovni izračun'
-      badges_to_check: 'Bedževi za provjeru'
+      all_badges: 'Sve automatske značke'
+      badge_help: 'Odaberite određenu značku ili ponovno izračunajte sve automatske značke.'
+      badge_label: 'Značka za ponovni izračun'
+      badges_to_check: 'Značke za provjeru'
       chunk_size_help: 'Broj korisnika za obradu po zadatku. Manji dijelovi su pouzdaniji, ali ukupno traju duže.'
       chunk_size_label: 'Veličina dijela'
       default: Zadano
@@ -131,22 +131,22 @@ fof-badges:
       info: 'Proces ponovnog izračuna obrađuje korisnike u dijelovima kako bi se izbjegao istek vremena u redu čekanja. Svaki dio izvodi se kao zaseban pozadinski zadatak.'
       jobs_empty: 'Nema zadataka ponovnog izračuna.'
       jobs_title: 'Povijest zadataka'
-      no_automatic_badges: 'Nisu konfigurirani automatski bedževi. Prvo kreirajte bedž s uvjetima okidanja.'
-      no_revoke_help: 'Ako je omogućeno, korisnici koji više ne ispunjavaju kriterije zadržat će svoje bedževe.'
-      no_revoke_label: 'Nemoj oduzimati postojeće bedževe'
-      reapply_actions_help: 'Ako je omogućeno, radnje bedža (poput dodavanja u grupu) ponovno će se primijeniti na korisnike koji već imaju bedž. Korisno kada ste postojećem bedžu dodali nove radnje.'
-      reapply_actions_label: 'Ponovno primijeni radnje na postojeće vlasnike bedževa'
+      no_automatic_badges: 'Nisu konfigurirane automatske značke. Prvo kreirajte značku s uvjetima okidanja.'
+      no_revoke_help: 'Ako je omogućeno, korisnici koji više ne ispunjavaju kriterije zadržat će svoje značke.'
+      no_revoke_label: 'Nemoj oduzimati postojeće značke'
+      reapply_actions_help: 'Ako je omogućeno, radnje značke (poput dodavanja u grupu) ponovno će se primijeniti na korisnike koji već imaju značku. Korisno kada ste postojećoj znački dodali nove radnje.'
+      reapply_actions_label: 'Ponovno primijeni radnje na postojeće vlasnike znački'
       show_more: 'Prikaži još {count}'
       start: 'Pokreni ponovni izračun'
-      sync_counts: 'Sinkronizacija broja bedževa'
-      sync_counts_error: 'Neuspjela sinkronizacija broja bedževa.'
-      sync_counts_info: 'Ponovno izračunajte broj dodijeljenih bedževa za sve bedževe na temelju stvarnih zapisa u bazi. Koristite ovo ako podaci o broju postanu netočni nakon ponovnog izračuna.'
-      sync_counts_success: 'Broj bedževa sinkroniziran! Ispravljeno je {corrected} od {total} bedževa.'
-      sync_counts_title: 'Sinkroniziraj broj bedževa'
+      sync_counts: 'Sinkronizacija broja znački'
+      sync_counts_error: 'Neuspjela sinkronizacija broja znački.'
+      sync_counts_info: 'Ponovno izračunajte broj dodijeljenih znački za sve značke na temelju stvarnih zapisa u bazi. Koristite ovo ako podaci o broju postanu netočni nakon ponovnog izračuna.'
+      sync_counts_success: 'Broj znački sinkroniziran! Ispravljeno je {corrected} od {total} znački.'
+      sync_counts_title: 'Sinkroniziraj broj znački'
       title: 'Pokreni ponovni izračun'
       total_users: 'Ukupno korisnika'
     recalculation:
-      already_running: 'Ponovni izračun bedževa već je u tijeku.'
+      already_running: 'Ponovni izračun znački već je u tijeku.'
       auto_refresh_off: 'Automatsko osvježavanje'
       auto_refresh_on: 'Automatsko osvježavanje je uključeno'
       cancel: Odustani
@@ -159,8 +159,8 @@ fof-badges:
       failed: 'Ponovni izračun nije uspio'
       pending: 'Priprema ponovnog izračuna...'
       progress: '{processed} / {total} evaluacija ({percentage}%)'
-      running: 'Ponovni izračun bedževa...'
-      started: 'Započeo je ponovni izračun bedževa. Proces će se izvoditi u pozadini.'
+      running: 'Ponovni izračun znački...'
+      started: 'Započeo je ponovni izračun znački. Proces će se izvoditi u pozadini.'
       stats: 'Dodijeljeno: {awarded} | Oduzeto: {revoked}'
     recalculation_jobs:
       button: Poslovi
@@ -183,8 +183,8 @@ fof-badges:
       title: 'Poslovi ponovnog izračuna'
       users: '{processed} / {total} evaluacija'
     revoke: Opozovi
-    revoke_confirm: 'Jeste li sigurni da želite opozvati bedž „{badge}” korisniku {username}?'
-    revoke_error: 'Nije uspjelo opozivanje bedža.'
+    revoke_confirm: 'Jeste li sigurni da želite opozvati značku „{badge}” korisniku {username}?'
+    revoke_error: 'Nije uspjelo opozivanje značke.'
     save: Spremi
     search_holders_placeholder: 'Pretraži nositelje...'
     search_user_placeholder: 'Pretraži po korisničkom ili prikazanom imenu...'
@@ -192,122 +192,122 @@ fof-badges:
     send_notification: 'Pošalji obavijest korisniku'
     settings:
       display_title: 'Postavke prikaza'
-      integrations_help: 'Metrika bedževa koja ovisi o drugim proširenjima. Instalirajte proširenje kako biste otključali odgovarajuće metrike.'
+      integrations_help: 'Metrika znački koja ovisi o drugim proširenjima. Instalirajte proširenje kako biste otključali odgovarajuće metrike.'
       integrations_title: 'Integracije proširenja'
-      new_badge_highlight: 'Prikaži oznaku "NOVO" na nedavno stečenim bedževima'
-      new_badge_highlight_help: 'Prikazuje oznaku "NOVO" na bedževima stečenim u posljednjih 7 dana.'
-      post_badge_display_limit: 'Limit prikaza bedževa uz objavu'
-      post_badge_display_limit_help: 'Maksimalan broj bedževa za prikaz ispod objave. Postavite na 0 za onemogućavanje.'
-      primary_badge_display: 'Prikaz primarnog bedža'
-      primary_badge_display_help: 'Način na koji se primarni bedž korisnika prikazuje pored korisničkog imena.'
+      new_badge_highlight: 'Prikaži oznaku "NOVO" na nedavno stečenim značkama'
+      new_badge_highlight_help: 'Prikazuje oznaku "NOVO" na značkama stečenim u posljednjih 7 dana.'
+      post_badge_display_limit: 'Limit prikaza znački uz objavu'
+      post_badge_display_limit_help: 'Maksimalan broj znački za prikaz ispod objave. Postavite na 0 za onemogućavanje.'
+      primary_badge_display: 'Prikaz primarne značke'
+      primary_badge_display_help: 'Način na koji se primarna značka korisnika prikazuje pored korisničkog imena.'
       primary_badge_hidden: Skriveno
       primary_badge_icon: 'Samo ikona'
       primary_badge_icon_name: 'Ikona i naziv'
       save: 'Spremi postavke'
       save_error: 'Spremanje postavki nije uspjelo.'
       saved: 'Postavke su uspješno spremljene.'
-      show_badges_on_user_card: 'Prikaži bedževe na korisničkoj kartici'
-      show_badges_on_user_card_help: 'Prikaži korisnikov omiljeni ili najrjeđi bedž na korisničkim karticama i stranicama profila.'
+      show_badges_on_user_card: 'Prikaži značke na korisničkoj kartici'
+      show_badges_on_user_card_help: 'Prikaži korisnikov omiljeni ili najrjeđu značku na korisničkim karticama i stranicama profila.'
     showing_holders: 'Prikazano {from} – {to} od ukupno {total}'
     status: Status
     tab_assign: Dodijeli
     tab_holders: 'Nositelji ({count})'
     tabs:
-      badges: Bedževi
+      badges: Značke
       categories: Kategorije
       recalculation: 'Ponovno izračunavanje'
       settings: Postavke
     trigger_builder:
       add_condition: 'Dodaj uvjet'
       and: 'SVI moraju odgovarati (AND)'
-      and_help: 'Korisnik mora istovremeno ispuniti sve uvjete kako bi osvojio ovaj bedž.'
+      and_help: 'Korisnik mora istovremeno ispuniti sve uvjete kako bi osvojio ovu značku.'
       date_end: 'Završni datum'
-      date_range_help: 'Broji samo aktivnost unutar ovog raspona datuma. Korisno za prigodne bedževe.'
+      date_range_help: 'Broji samo aktivnost unutar ovog raspona datuma. Korisno za prigodne značke.'
       date_start: 'Početni datum'
       loading_tags: 'Učitavanje oznaka...'
       logic: 'Kada je postavljeno više uvjeta'
-      no_conditions_info: 'Nisu postavljeni uvjeti. Ovaj bedž mogu dodijeliti samo moderatori ručno.'
+      no_conditions_info: 'Nisu postavljeni uvjeti. Ovu značku mogu dodijeliti samo moderatori ručno.'
       or: 'BILO KOJI mora odgovarati (ILI)'
-      or_help: 'Korisnik mora ispuniti barem jedan uvjet kako bi osvojio ovaj bedž.'
+      or_help: 'Korisnik mora ispuniti barem jedan uvjet kako bi osvojio ovu značku.'
       remove_condition: 'Ukloni uvjet'
       select_tag: 'Odaberi oznaku...'
       tag_filter: 'Filter oznaka'
       tag_filter_help: 'Obavezno prilikom korištenja metrike "Objave u oznaci".'
       use_date_range: 'Ograniči na raspon datuma'
     trigger_config: 'Automatski okidač'
-    trigger_config_help: 'Konfigurirajte uvjete za automatsku dodjelu bedža. Ostavite prazno za bedževe koji se dodjeljuju isključivo ručno.'
+    trigger_config_help: 'Konfigurirajte uvjete za automatsku dodjelu značke. Ostavite prazno za značke koje se dodjeljuju isključivo ručno.'
     uncategorized: Nekategorizirano
     validation:
       tag_required: 'Morate odabrati oznaku kada koristite metriku „Objave u oznaci”.'
   forum:
-    all_badges: 'Svi bedževi'
-    badges_subtitle: 'Zaslužite bedževe sudjelovanjem u zajednici!'
-    badges_title: Bedževi
+    all_badges: 'Sve značke'
+    badges_subtitle: 'Zaslužite značke sudjelovanjem u zajednici!'
+    badges_title: Značke
     earned_by: '{count, plural, one {# korisnik} other {# korisnika}}'
     earned_users: Zaslužio
     loading: Učitavanje...
     more_users_earned: 'I još korisnika...'
-    my_badges: 'Moji bedževi'
+    my_badges: 'Moje značke'
     nav:
-      badges: Bedževi
+      badges: Značke
     new_tag: NOVO
-    no_badges: 'Još nema dostupnih bedževa.'
-    no_users_earned: 'Nitko još nije zaslužio ovaj bedž. Budite prvi!'
+    no_badges: 'Još nema dostupnih znački.'
+    no_users_earned: 'Nitko još nije zaslužio ovu značku. Budite prvi!'
     notification:
-      a_badge: bedž
-      badge_earned: 'Osvojili ste bedž {badge}'
-    other_badges: 'Ostali bedževi'
-    owned_badge: 'Posjedujete ovaj bedž'
+      a_badge: značka
+      badge_earned: 'Osvojili ste značku {badge}'
+    other_badges: 'Ostale značke'
+    owned_badge: 'Posjedujete ovu značku'
     toggle_category_dropdown: 'Uključi/isključi padajući izbornik kategorija'
     user:
-      assign_badge: 'Dodijeli bedž'
-      assign_badge_title: 'Dodijeli bedž korisniku {username}'
-      assign_button: 'Dodijeli bedž'
+      assign_badge: 'Dodijeli značku'
+      assign_badge_title: 'Dodijeli značku korisniku {username}'
+      assign_button: 'Dodijeli značku'
       assign_reason: 'Razlog (opcionalno)'
-      assign_reason_help: 'Ovaj će razlog biti vidljiv na korisnikovu bedžu.'
-      assign_reason_placeholder: 'Zašto se ovaj bedž dodjeljuje?'
-      badge_actions: 'Radnje s bedževima'
-      badge_assigned: 'Bedž "{badge}" dodijeljen je korisniku {username}!'
-      badge_revoked: 'Bedž "{badge}" je opozvan.'
-      badges_count: '{count, plural, one {# bedž} other {# bedževa}}'
-      badges_tab: Bedževi
-      badges_title: 'Bedževi korisnika {username}'
+      assign_reason_help: 'Ovaj će razlog biti vidljiv na korisnikovoj značci.'
+      assign_reason_placeholder: 'Zašto se ova značka dodjeljuje?'
+      badge_actions: 'Radnje s značkama'
+      badge_assigned: 'Značka "{badge}" dodijeljena je korisniku {username}!'
+      badge_revoked: 'Značka "{badge}" je opozvana.'
+      badges_count: '{count, plural, one {# značka} other {# znački}}'
+      badges_tab: Značke
+      badges_title: 'Značke korisnika {username}'
       cancel: Odustani
       earned_on: 'Zasluženo {date}'
-      favorite_badge: 'Omiljeni bedž'
+      favorite_badge: 'Omiljena značka'
       hidden_badge: 'Skriveno s profila'
       hide_badge: 'Sakrij s profila'
       load_more: 'Učitaj više'
       manually_awarded: 'Ručno dodijeljeno'
-      no_badges: 'Ovaj korisnik još nije zaslužio nijedan bedž.'
-      no_badges_available: 'Nema dostupnih bedževa.'
-      recalculate: 'Ponovno izračunaj bedževe'
-      recalculate_error: 'Neuspjelo ponovno izračunavanje bedževa. Molimo pokušajte ponovno.'
+      no_badges: 'Ovaj korisnik još nije zaslužio nijednu značku.'
+      no_badges_available: 'Nema dostupnih znački.'
+      recalculate: 'Ponovno izračunaj značke'
+      recalculate_error: 'Neuspjelo ponovno izračunavanje znački. Molimo pokušajte ponovno.'
       recalculate_modal:
-        all_badges: 'Svi automatski bedževi'
-        badge_label: 'Bedž za ponovni izračun'
+        all_badges: 'Sve automatske značke'
+        badge_label: 'Značka za ponovni izračun'
         manual: Ručno
-        no_revoke_help: 'Ako je omogućeno, korisnik će zadržati bedževe čak i ako više ne ispunjava kriterije.'
-        no_revoke_label: 'Nemoj opozvati postojeće bedževe'
-        reapply_actions_help: 'Ponovno primijeni radnje za bedževe (poput dodavanja u grupu) ako korisnik već ima taj bedž.'
-        reapply_actions_label: 'Ponovno primijeni radnje na postojeće bedževe'
+        no_revoke_help: 'Ako je omogućeno, korisnik će zadržati značke čak i ako više ne ispunjava kriterije.'
+        no_revoke_label: 'Nemoj opozvati postojeće značke'
+        reapply_actions_help: 'Ponovno primijeni radnje za značke (poput dodavanja u grupu) ako korisnik već ima tu značku.'
+        reapply_actions_label: 'Ponovno primijeni radnje na postojeće značke'
         submit: 'Ponovno izračunaj'
-        title: 'Ponovno izračunaj bedževe'
-      recalculate_reapplied: 'Radnje ponovno primijenjene za {reapplied} bedževa'
-      recalculate_success: 'Bedževi su ponovno izračunati! Dodijeljeno: {awarded}, Oduzeto: {revoked}, Ponovno primijenjeno: {reapplied}'
+        title: 'Ponovno izračunaj značke'
+      recalculate_reapplied: 'Radnje ponovno primijenjene za {reapplied} znački'
+      recalculate_success: 'Značke su ponovno izračunate! Dodijeljeno: {awarded}, Oduzeto: {revoked}, Ponovno primijenjeno: {reapplied}'
       remove_favorite: 'Ukloni iz omiljenih'
-      revoke_badge: 'Opozovi bedž'
-      revoke_confirm: 'Jeste li sigurni da želite opozvati bedž "{badge}" ovom korisniku?'
-      revoke_error: 'Neuspjelo opozivanje bedža.'
-      select_badge: 'Odaberite bedž...'
-      select_badge_label: 'Odaberi bedž'
+      revoke_badge: 'Opozovi značku'
+      revoke_confirm: 'Jeste li sigurni da želite opozvati značku "{badge}" ovom korisniku?'
+      revoke_error: 'Neuspjelo opozivanje značke.'
+      select_badge: 'Odaberite značku...'
+      select_badge_label: 'Odaberi značku'
       set_favorite: 'Postavi kao omiljeno'
       show_badge: 'Prikaži na profilu'
-      view_all_badges: 'Prikaži sve bedževe'
+      view_all_badges: 'Prikaži sve značke'
   lib:
     rarity_common: Uobičajen
     rarity_epic: Epski
-    rarity_explain: '{percent}% korisnika ima ovaj bedž'
+    rarity_explain: '{percent}% korisnika ima ovu značku'
     rarity_legendary: Legendaran
     rarity_rare: Rijedak
     rarity_uncommon: Neobičan
