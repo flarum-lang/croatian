@@ -41,6 +41,7 @@ CHANGELOG
 * [`huseyinfiliz/notificationhub`](https://github.com/huseyinfiliz/notificationhub)
 * [`huseyinfiliz/sticky-title`](https://github.com/huseyinfiliz/sticky-title)
 * [`huseyinfiliz/traderfeedback`](https://github.com/huseyinfiliz/traderfeedback)
+* [`ianm/follow-users`](https://github.com/imorland/follow-users)
 * [`justoverclock/custom-html-widget`](https://github.com/justoverclockl/custom-html-widget)
 * [`v17development/flarum-user-badges`](https://github.com/v17development/flarum-user-badges)
 
