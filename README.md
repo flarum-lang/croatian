@@ -103,6 +103,7 @@ php flarum cache:clear
 | [`huseyinfiliz/traderfeedback`](https://github.com/huseyinfiliz/traderfeedback) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hr/huseyinfiliz-traderfeedback/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/huseyinfiliz-traderfeedback/hr/) |
 | [`ianm/follow-users`](https://github.com/imorland/follow-users) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hr/ianm-follow-users/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/ianm-follow-users/hr/) |
 | [`justoverclock/custom-html-widget`](https://github.com/justoverclockl/custom-html-widget) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hr/justoverclock-custom-html-widget/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/justoverclock-custom-html-widget/hr/) |
+| [`v17development/flarum-blog`](https://github.com/v17development/flarum-blog) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hr/v17development-blog/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/v17development-blog/hr/) |
 | [`v17development/flarum-user-badges`](https://github.com/v17development/flarum-user-badges) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hr/v17development-user-badges/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/v17development-user-badges/hr/) |
 
 <!-- various-extensions-list-stop -->
