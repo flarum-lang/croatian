@@ -32,6 +32,7 @@ ianm-follow-users:
       following: 'Praćeni korisnici'
     followed: Praćen
     followers: '{count, plural, one {Pratitelj} other {Pratitelji}}'
+    followers_link: Pratitelji
     index:
       follow_tag_button: '=> ianm-follow-users.lib.follow'
       unfollow_tag_button: '=> ianm-follow-users.lib.change_follow_type'
@@ -52,6 +53,7 @@ ianm-follow-users:
       new_unfollower_text: '{username} vas je prestao pratiti'
     profile_link: '=> ianm-follow-users.lib.following_link'
     profile_page:
+      no_followers: 'Čini se da još nemate pratitelja.'
       no_following: 'Izgleda da ne pratite nikoga.'
     settings:
       block_follow: 'Spriječi korisnike da me prate'
