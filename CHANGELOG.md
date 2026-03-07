@@ -37,6 +37,7 @@ CHANGELOG
 * [`flarum/tags`](https://github.com/flarum/tags)
 * [`fof/badges`](https://github.com/FriendsOfFlarum/badges)
 * [`fof/categories`](https://github.com/FriendsOfFlarum/categories)
+* [`fof/polls`](https://github.com/FriendsOfFlarum/polls)
 * [`gtdxyz/flarum-ext-badges`](https://github.com/daocatt/flarum-ext-badges)
 * [`huseyinfiliz/custom-profile-page`](https://github.com/huseyinfiliz/custom-profile-page)
 * [`huseyinfiliz/notificationhub`](https://github.com/huseyinfiliz/notificationhub)
