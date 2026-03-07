@@ -17,6 +17,7 @@ CHANGELOG
 * [`blomstra/fontawesome`](https://github.com/blomstra/flarum-ext-fontawesome)
 * [`clarkwinkelmann/flarum-ext-first-post-approval`](https://github.com/clarkwinkelmann/flarum-ext-first-post-approval)
 * [`clarkwinkelmann/flarum-ext-post-bookmarks`](https://github.com/clarkwinkelmann/flarum-ext-post-bookmarks)
+* [`datlechin/flarum-birthdays`](https://github.com/datlechin/flarum-birthdays)
 * [`datlechin/flarum-link-preview`](https://github.com/datlechin/flarum-link-preview)
 * [`flarum/akismet`](https://github.com/flarum/akismet)
 * [`flarum/approval`](https://github.com/flarum/approval)
