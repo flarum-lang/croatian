@@ -39,6 +39,7 @@ CHANGELOG
 * [`fof/categories`](https://github.com/FriendsOfFlarum/categories)
 * [`fof/discussion-views`](https://github.com/FriendsOfFlarum/discussion-views)
 * [`fof/polls`](https://github.com/FriendsOfFlarum/polls)
+* [`fof/subscribed`](https://github.com/FriendsOfFlarum/subscribed)
 * [`gtdxyz/flarum-ext-badges`](https://github.com/daocatt/flarum-ext-badges)
 * [`huseyinfiliz/custom-profile-page`](https://github.com/huseyinfiliz/custom-profile-page)
 * [`huseyinfiliz/notificationhub`](https://github.com/huseyinfiliz/notificationhub)
