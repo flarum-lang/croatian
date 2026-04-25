@@ -114,7 +114,6 @@ php flarum cache:clear
 | [`resofire/blog-cards`](https://github.com/ResofireV2/blog-cards) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hr/resofire-blog-cards/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/resofire-blog-cards/hr/) |
 | [`resofire/discussion-participants`](https://github.com/ResofireV2/discussion-participants) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hr/resofire-discussion-participants/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/resofire-discussion-participants/hr/) |
 | [`v17development/flarum-blog`](https://github.com/v17development/flarum-blog) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hr/v17development-blog/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/v17development-blog/hr/) |
-| [`v17development/flarum-user-badges`](https://github.com/v17development/flarum-user-badges) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hr/v17development-user-badges/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/v17development-user-badges/hr/) |
 
 <!-- various-extensions-list-stop -->
 
