@@ -56,5 +56,6 @@ CHANGELOG
 * [`resofire/discussion-participants`](https://github.com/ResofireV2/discussion-participants)
 * [`v17development/flarum-blog`](https://github.com/v17development/flarum-blog)
 * [`v17development/flarum-user-badges`](https://github.com/v17development/flarum-user-badges)
+* [`walsgit/flarum-discussion-cards`](https://github.com/WalsGit/flarum-discussion-cards)
 
 
