@@ -101,6 +101,7 @@ php flarum cache:clear
 | [`ianm/follow-users`](https://github.com/imorland/follow-users) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/hr/ianm-follow-users/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/ianm-follow-users/hr/) |
 | [`resofire/blog-cards`](https://github.com/ResofireV2/blog-cards) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/hr/resofire-blog-cards/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/resofire-blog-cards/hr/) |
 | [`resofire/discussion-participants`](https://github.com/ResofireV2/discussion-participants) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/hr/resofire-discussion-participants/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/resofire-discussion-participants/hr/) |
+| [`walsgit/flarum-discussion-cards`](https://github.com/WalsGit/flarum-discussion-cards) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/hr/walsgit-discussion-cards/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/walsgit-discussion-cards/hr/) |
 
 <!-- various-extensions-list-stop -->
 
