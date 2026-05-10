@@ -41,5 +41,6 @@ CHANGELOG
 * [`ianm/follow-users`](https://github.com/imorland/follow-users)
 * [`resofire/blog-cards`](https://github.com/ResofireV2/blog-cards)
 * [`resofire/discussion-participants`](https://github.com/ResofireV2/discussion-participants)
+* [`walsgit/flarum-discussion-cards`](https://github.com/WalsGit/flarum-discussion-cards)
 
 
