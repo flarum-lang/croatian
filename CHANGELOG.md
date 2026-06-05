@@ -39,6 +39,7 @@ CHANGELOG
 * [`fof/moderator-warnings`](https://github.com/FriendsOfFlarum/moderator-warnings)
 * [`fof/polls`](https://github.com/FriendsOfFlarum/polls)
 * [`fof/subscribed`](https://github.com/FriendsOfFlarum/subscribed)
+* [`huseyinfiliz/sticky-title`](https://github.com/huseyinfiliz/sticky-title)
 * [`ianm/follow-users`](https://github.com/imorland/follow-users)
 * [`resofire/blog-cards`](https://github.com/ResofireV2/blog-cards)
 * [`resofire/discussion-participants`](https://github.com/ResofireV2/discussion-participants)
