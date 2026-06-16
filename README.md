@@ -80,6 +80,7 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
+| [`fof/anti-spam`](https://github.com/FriendsOfFlarum/anti-spam) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/hr/fof-anti-spam/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-anti-spam/hr/) |
 | [`fof/badges`](https://github.com/FriendsOfFlarum/badges) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/hr/fof-badges/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-badges/hr/) |
 | [`fof/categories`](https://github.com/FriendsOfFlarum/categories) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/hr/fof-categories/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-categories/hr/) |
 | [`fof/discussion-views`](https://github.com/FriendsOfFlarum/discussion-views) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/hr/fof-discussion-views/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-discussion-views/hr/) |
@@ -89,6 +90,7 @@ php flarum cache:clear
 | [`fof/moderator-warnings`](https://github.com/FriendsOfFlarum/moderator-warnings) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/hr/fof-moderator-warnings/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-moderator-warnings/hr/) |
 | [`fof/online-users-widget`](https://github.com/FriendsOfFlarum/online-users-widget) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/hr/fof-online-users-widget/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-online-users-widget/hr/) |
 | [`fof/polls`](https://github.com/FriendsOfFlarum/polls) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/hr/fof-polls/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-polls/hr/) |
+| [`fof/seo`](https://github.com/FriendsOfFlarum/seo) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/hr/fof-seo/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-seo/hr/) |
 | [`fof/subscribed`](https://github.com/FriendsOfFlarum/subscribed) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/hr/fof-subscribed/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-subscribed/hr/) |
 
 <!-- fof-extensions-list-stop -->
