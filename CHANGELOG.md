@@ -18,6 +18,7 @@ CHANGELOG
 * [`datlechin/flarum-link-preview`](https://github.com/datlechin/flarum-link-preview)
 * [`flarum/akismet`](https://github.com/flarum/akismet)
 * [`flarum/approval`](https://github.com/flarum/approval)
+* [`flarum/bbcode`](https://github.com/flarum/bbcode)
 * [`flarum/emoji`](https://github.com/flarum/emoji)
 * [`flarum/extension-manager`](https://github.com/flarum/extension-manager)
 * [`flarum/flags`](https://github.com/flarum/flags)
