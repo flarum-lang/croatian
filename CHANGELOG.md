@@ -48,6 +48,7 @@ CHANGELOG
 * [`huseyinfiliz/sticky-title`](https://github.com/huseyinfiliz/sticky-title)
 * [`ianm/follow-users`](https://github.com/imorland/follow-users)
 * [`ianm/online-guests`](https://github.com/imorland/flarum-ext-online-guests-widget)
+* [`ramon/backup`](https://github.com/ram0ng1/backup)
 * [`resofire/blog-cards`](https://github.com/ResofireV2/blog-cards)
 * [`resofire/discussion-participants`](https://github.com/ResofireV2/discussion-participants)
 * [`walsgit/flarum-discussion-cards`](https://github.com/WalsGit/flarum-discussion-cards)
