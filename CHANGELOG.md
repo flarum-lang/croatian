@@ -40,6 +40,7 @@ CHANGELOG
 * [`flarum/suspend`](https://github.com/flarum/suspend)
 * [`flarum/tags`](https://github.com/flarum/tags)
 * [`fof/badges`](https://github.com/FriendsOfFlarum/badges)
+* [`fof/blog`](https://github.com/FriendsOfFlarum/blog)
 * [`fof/categories`](https://github.com/FriendsOfFlarum/categories)
 * [`fof/discussion-views`](https://github.com/FriendsOfFlarum/discussion-views)
 * [`fof/merge-discussions`](https://github.com/FriendsOfFlarum/merge-discussions)
