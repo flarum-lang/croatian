@@ -63,7 +63,7 @@ CHANGELOG
 * [`ianm/online-guests`](https://github.com/imorland/flarum-ext-online-guests-widget)
 * [`justoverclock/custom-html-widget`](https://github.com/justoverclockl/custom-html-widget)
 * [`resofire/blog-cards`](https://github.com/ResofireV2/blog-cards)
-* [`resofire/discussion-participants`](https://github.com/ResofireV2/discussion-participants)
+* `resofire-discussion-participants`
 * [`v17development/flarum-blog`](https://github.com/FriendsOfFlarum/blog)
 * [`v17development/flarum-user-badges`](https://github.com/v17development/flarum-user-badges)
 * [`walsgit/flarum-discussion-cards`](https://github.com/WalsGit/flarum-discussion-cards)
