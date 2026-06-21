@@ -50,6 +50,7 @@ CHANGELOG
 * [`fof/forum-widgets-core`](https://github.com/FriendsOfFlarum/forum-widgets-core)
 * [`fof/merge-discussions`](https://github.com/FriendsOfFlarum/merge-discussions)
 * [`fof/moderator-warnings`](https://github.com/FriendsOfFlarum/moderator-warnings)
+* [`fof/oauth`](https://github.com/FriendsOfFlarum/oauth)
 * [`fof/online-users-widget`](https://github.com/FriendsOfFlarum/online-users-widget)
 * [`fof/polls`](https://github.com/FriendsOfFlarum/polls)
 * [`fof/seo`](https://github.com/FriendsOfFlarum/seo)
