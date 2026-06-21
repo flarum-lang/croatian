@@ -104,6 +104,7 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
+| [`blomstra/database-queue`](https://github.com/blomstra/flarum-ext-database-queue) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hr/blomstra-database-queue/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/blomstra-database-queue/hr/) |
 | [`blomstra/fontawesome`](https://github.com/blomstra/flarum-ext-fontawesome) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hr/blomstra-fontawesome/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/blomstra-fontawesome/hr/) |
 | [`clarkwinkelmann/flarum-ext-first-post-approval`](https://github.com/clarkwinkelmann/flarum-ext-first-post-approval) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hr/clarkwinkelmann-first-post-approval/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/clarkwinkelmann-first-post-approval/hr/) |
 | [`clarkwinkelmann/flarum-ext-post-bookmarks`](https://github.com/clarkwinkelmann/flarum-ext-post-bookmarks) | [![Translation status](https://weblate.rob006.net/widgets/flarum/hr/clarkwinkelmann-post-bookmarks/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/clarkwinkelmann-post-bookmarks/hr/) |
