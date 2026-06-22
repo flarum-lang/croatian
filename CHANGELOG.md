@@ -14,6 +14,7 @@ CHANGELOG
 
 **Added support for new extensions**:
 
+* [`acpl/flarum-lscache`](https://github.com/android-com-pl/flarum-lscache)
 * [`afrux/online-users-widget`](https://github.com/afrux/online-users-widget)
 * [`blomstra/database-queue`](https://github.com/blomstra/flarum-ext-database-queue)
 * [`blomstra/fontawesome`](https://github.com/blomstra/flarum-ext-fontawesome)
