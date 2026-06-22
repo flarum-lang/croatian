@@ -14,6 +14,7 @@ CHANGELOG
 
 **Added support for new extensions**:
 
+* [`acpl/flarum-lscache`](https://github.com/android-com-pl/flarum-lscache)
 * [`datlechin/flarum-birthdays`](https://github.com/datlechin/flarum-birthdays)
 * [`datlechin/flarum-link-preview`](https://github.com/datlechin/flarum-link-preview)
 * [`flarum/akismet`](https://github.com/flarum/akismet)
