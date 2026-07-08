@@ -47,6 +47,7 @@ CHANGELOG
 * [`fof/polls`](https://github.com/FriendsOfFlarum/polls)
 * [`fof/seo`](https://github.com/FriendsOfFlarum/seo)
 * [`fof/subscribed`](https://github.com/FriendsOfFlarum/subscribed)
+* [`huseyinfiliz/notificationhub`](https://github.com/huseyinfiliz/notificationhub)
 * [`huseyinfiliz/sticky-title`](https://github.com/huseyinfiliz/sticky-title)
 * [`ianm/follow-users`](https://github.com/imorland/follow-users)
 * [`ianm/online-guests`](https://github.com/imorland/flarum-ext-online-guests-widget)
