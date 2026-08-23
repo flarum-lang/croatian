@@ -40,6 +40,7 @@ CHANGELOG
 * [`fof/bookmarks`](https://github.com/FriendsOfFlarum/bookmarks)
 * [`fof/categories`](https://github.com/FriendsOfFlarum/categories)
 * [`fof/discussion-views`](https://github.com/FriendsOfFlarum/discussion-views)
+* [`fof/first-post-approval`](https://github.com/FriendsOfFlarum/first-post-approval)
 * [`fof/forum-stats-widget`](https://github.com/FriendsOfFlarum/forum-stats-widget)
 * [`fof/forum-widgets-core`](https://github.com/FriendsOfFlarum/forum-widgets-core)
 * [`fof/merge-discussions`](https://github.com/FriendsOfFlarum/merge-discussions)
