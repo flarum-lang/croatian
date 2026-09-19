@@ -7,9 +7,6 @@ flarum-suspend:
     permissions:
       suspend_users_label: 'Isključuj korisnike'
   forum:
-    notifications:
-      user_suspended_text: '{username} te isključuje na {timeReadable}'
-      user_unsuspended_text: '{username} opoziva tvoje isključenje'
     suspend_user:
       indefinitely_label: 'Isključenje na neodređeno'
       limited_time_days_text: ' dana'
