@@ -7,9 +7,9 @@ CHANGELOG
 
 **General changes**:
 
+* Updated Flarum core translations (554 added).
+* Updated validation translations (101 added).
 * Updated Day.js translations.
-* Updated Flarum core translations.
-* Updated validation translations.
 
 
 **Added support for new extensions**:
@@ -21,8 +21,8 @@ CHANGELOG
 * [`clarkwinkelmann/flarum-ext-first-post-approval`](https://github.com/clarkwinkelmann/flarum-ext-first-post-approval)
 * [`clarkwinkelmann/flarum-ext-post-bookmarks`](https://github.com/clarkwinkelmann/flarum-ext-post-bookmarks)
 * [`clarkwinkelmann/flarum-ext-post-stream-search`](https://github.com/clarkwinkelmann/flarum-ext-post-stream-search)
-* [`datlechin/flarum-ai-summarize`](https://github.com/datlechin/flarum-ai-summarize)
 * [`datlechin/flarum-ai`](https://github.com/datlechin/flarum-ai)
+* [`datlechin/flarum-ai-summarize`](https://github.com/datlechin/flarum-ai-summarize)
 * [`datlechin/flarum-birthdays`](https://github.com/datlechin/flarum-birthdays)
 * [`datlechin/flarum-link-preview`](https://github.com/datlechin/flarum-link-preview)
 * [`flarum/akismet`](https://github.com/flarum/akismet)
