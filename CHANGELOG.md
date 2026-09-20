@@ -7,7 +7,7 @@ CHANGELOG
 
 **General changes**:
 
-* Updated Flarum core translations (554 added).
+* Updated Flarum core translations (587 added).
 * Updated validation translations (101 added).
 * Updated Day.js translations.
 
