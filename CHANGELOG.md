@@ -45,7 +45,7 @@ CHANGELOG
 * [`fof/forum-widgets-core`](https://github.com/FriendsOfFlarum/forum-widgets-core) (100% complete)
 * [`fof/merge-discussions`](https://github.com/FriendsOfFlarum/merge-discussions) (74% complete)
 * [`fof/moderator-warnings`](https://github.com/FriendsOfFlarum/moderator-warnings) (81% complete)
-* [`fof/oauth`](https://github.com/FriendsOfFlarum/oauth) (92% complete)
+* [`fof/oauth`](https://github.com/FriendsOfFlarum/oauth) (88% complete)
 * [`fof/online-users-widget`](https://github.com/FriendsOfFlarum/online-users-widget) (100% complete)
 * [`fof/polls`](https://github.com/FriendsOfFlarum/polls) (75% complete)
 * [`fof/seo`](https://github.com/FriendsOfFlarum/seo) (98% complete)
