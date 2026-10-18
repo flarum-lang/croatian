@@ -2,6 +2,17 @@ CHANGELOG
 =========
 
 
+2.0.1 (2026-10-18)
+------------------
+
+**Added support for new extensions**:
+
+* [`huseyinfiliz/traderfeedback`](https://github.com/huseyinfiliz/traderfeedback) (88% complete)
+
+
+All changes: [2.0.0...2.0.1](https://github.com/flarum-lang/croatian/compare/2.0.0...2.0.1).
+
+
 2.0.0 (2026-09-30)
 ------------------
 
