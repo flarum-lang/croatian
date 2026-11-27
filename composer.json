@@ -1,27 +1,24 @@
 {
 	"name": "flarum-lang/croatian",
+	"description": "Croatian Language Pack for Flarum",
 	"type": "flarum-extension",
-	"description": "Croatian language pack for Flarum.",
-	"homepage": "https://github.com/flarum-lang/croatian",
 	"keywords": [
-		"locale",
-		"flarum",
-		"flarum-locale",
-		"hr-locale",
-		"croatian-locale",
-		"croatian"
+		"flarum-locale"
 	],
+	"homepage": "https://github.com/flarum-lang/croatian",
 	"license": "MIT",
 	"support": {
 		"issues": "https://github.com/flarum-lang/croatian/issues",
+		"forum": "https://discuss.flarum.org/d/40189",
 		"source": "https://github.com/flarum-lang/croatian"
 	},
 	"require": {
 		"flarum/core": "^1.6"
 	},
-	"minimum-stability": "dev",
-	"prefer-stable": true,
 	"extra": {
+		"branch-alias": {
+			"dev-master": "1.x-dev"
+		},
 		"flarum-extension": {
 			"title": "Croatian",
 			"category": "language",
@@ -33,13 +30,7 @@
 		},
 		"flarum-locale": {
 			"code": "hr",
-			"title": "Croatian"
-		},
-		"extiverse": {
-			"discuss": ""
-		},
-		"branch-alias": {
-			"dev-master": "1.x-dev"
+			"title": "Hrvatski"
 		}
 	}
 }
